@@ -2,7 +2,7 @@
 This is an step by step guide with real world example for image processing.
 
 
-# Preprocessing
+## Preprocessing
 You can Preprocess your images with Real-ESRGAN
 
 Or simply use Image from PIL library:
